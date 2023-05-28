@@ -1,0 +1,12 @@
+div p {
+	background-color: black;
+ 	color: white;
+}
+div > p {
+	text-align: center;
+	background-color: blue;
+ 	color: yellow;
+}
+
+
+
