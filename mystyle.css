@@ -14,4 +14,15 @@ p {
   color: darkblue;
 }
 
-button {
+button {background-color: lightblue;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: dodgerblue;
+}
+
+ {
+  font-weight: bold;
+  color: green;
+}
