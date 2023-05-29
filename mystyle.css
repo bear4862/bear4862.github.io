@@ -24,7 +24,7 @@ button:hover {
   background-color: dodgerblue;
 }
 
- result{
+#result {
   font-weight: bold;
   color: green;
 }
