@@ -9,7 +9,9 @@ h1 {
   color: navy;
   text-align: center;
 }
-
+h2 {
+  color:green;
+}
 p {
   color: darkblue;
 }
